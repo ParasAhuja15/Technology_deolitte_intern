@@ -282,3 +282,111 @@ if __name__ == '__main__':
 - Unit tests validate both transformation paths
 - Sample data ensures accuracy
 - JSON serialization consistency checks
+
+# Task 3: Telemetry Live Dashboard Development Proposal
+
+Task 3 represents the **business and project management phase** of the Daikibo Industrials engagement, where you transition from technical implementation to **client-facing proposal writing**. This task demonstrates crucial skills needed in consulting and enterprise software development.
+
+## Task 3 Overview
+
+**Objective**: Write a formal development proposal for Daikibo's real-time manufacturing status dashboard
+
+**Context**: After successfully unifying the telemetry data formats (Tasks 1 & 2), the next step is building a live dashboard to visualize this data in real-time for manufacturing operations.
+
+## Your Submission Analysis
+
+Based on your **Task-3-Model-Submission.docx**, here's what you accomplished:
+
+### 1. **Overview Section**
+- **Professional Positioning**: You positioned Deloitte as more than just accounting - emphasizing software development expertise
+- **Client Confidence**: Referenced "hundreds of clients" and "thousands of projects" to establish credibility
+- **Project Introduction**: Clearly stated this is a proposal for "Daikibo's Telemetry Live Dashboard"
+
+### 2. **Scope Definition**
+You outlined five key functional requirements:
+
+**Infrastructure Requirements:**
+- **Scale**: 9 telemetry-enabled machines × 4 factories = **36 total devices**
+- **Security**: Private dashboard accessible only via Daikibo's Intranet/VPN
+- **Authentication**: Integration with existing internal authentication server (SSO capability)
+
+**User Experience Requirements:**
+- **Single Page Design**: Consolidated view of all device statuses
+- **Hierarchical Navigation**: Collapsible/expandable views at both factory and device levels
+- **Historical Data**: Device-level history of status changes
+
+### 3. **Resource Estimation**
+Your breakdown shows solid project planning:
+
+| Phase | Hours | Purpose |
+|-------|--------|---------|
+| **Design** | 40 | UI/UX wireframing, user flows, visual design |
+| **Development** | 160 | Frontend/backend coding, database integration |
+| **Integration** | 80 | Authentication setup, telemetry data connection, deployment |
+| **Total** | **280** | Complete project delivery |
+
+**Team Composition:**
+- 2 Software Engineers (full-stack development)
+- 1 Graphic Designer (UI/UX design)
+- 1 Daikibo DevOps Engineer (required for integration)
+
+### 4. **Timeline Planning**
+Your 7-week timeline (September 1 - October 22, 2021) shows:
+
+**Phase 1 - Design (Week 1-2)**
+- September 1: Design kickoff
+- September 8: Client feedback cycle
+- September 12: Design finalization
+
+**Phase 2 - Development (Weeks 3-5)**
+- September 12 - October 1: Core development
+- October 1: Version 1 demonstration
+
+**Phase 3 - Integration & Deployment (Weeks 6-7)**
+- October 8 - October 22: Final integration and go-live
+
+### 5. **Support Framework**
+- **Ongoing Availability**: Post-deployment support commitment
+- **Ticket System**: Structured support request process
+- **Separate Billing**: Future enhancements invoiced independently
+
+## Key Strengths of Your Proposal
+
+### **Business Acumen**
+- **Risk Management**: Required Daikibo DevOps engineer shows you understand integration complexities
+- **Scope Clarity**: Specific numbers (9 machines, 4 factories) prevent scope creep
+- **Professional Boundaries**: Clear separation between development and ongoing support costs
+
+### **Technical Understanding**
+- **Security Awareness**: Emphasized intranet-only access and SSO integration
+- **Scalability Planning**: Hierarchical view design supports future factory expansion
+- **Data Integration**: Built upon the unified telemetry format from previous tasks
+
+### **Client Communication**
+- **Visual References**: Included wireframe mockups for stakeholder alignment
+- **Realistic Expectations**: Clear timeline with buffer time between phases
+- **Transparency**: Honest about requiring client resources (DevOps engineer)
+
+## Industry Context
+
+This type of proposal is crucial in **enterprise consulting** because:
+
+**For Manufacturing Clients:**
+- Real-time visibility prevents costly downtime
+- Centralized monitoring improves operational efficiency
+- Historical data enables predictive maintenance
+
+**For Consulting Firms:**
+- Demonstrates end-to-end capability (from data transformation to visualization)
+- Establishes long-term client relationships through support offerings
+- Showcases understanding of manufacturing operations
+
+## Skills Demonstrated
+
+Task 3 showcases several **soft skills** essential for technical consultants:
+
+1. **Requirements Translation**: Converting business needs into technical specifications
+2. **Resource Planning**: Realistic effort estimation and team composition
+3. **Risk Assessment**: Identifying dependencies and potential bottlenecks
+4. **Client Communication**: Professional document structure and clear language
+5. **Project Management**: Logical phase sequencing and milestone definition
